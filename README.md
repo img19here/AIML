@@ -19,4 +19,5 @@
 **Unsupervised ML**
    - KMeans Clustering
    - DBSCAN
+   - PCA
 
